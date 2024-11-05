@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35424.110 d17.12
+VisualStudioVersion = 17.12.35424.110
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c# 13 for .NET 9", "c# 13 for .NET 9\c# 13 for .NET 9.csproj", "{1BF7BCB4-EBC6-48C1-826A-58A34740F433}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pramas", "c# 13 for .NET 9\Pramas.csproj", "{1BF7BCB4-EBC6-48C1-826A-58A34740F433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClass\PartialClass.csproj", "{E60F1B10-0606-4668-BDE5-A59A6E0C7FFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1BF7BCB4-EBC6-48C1-826A-58A34740F433}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BF7BCB4-EBC6-48C1-826A-58A34740F433}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BF7BCB4-EBC6-48C1-826A-58A34740F433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60F1B10-0606-4668-BDE5-A59A6E0C7FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60F1B10-0606-4668-BDE5-A59A6E0C7FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60F1B10-0606-4668-BDE5-A59A6E0C7FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60F1B10-0606-4668-BDE5-A59A6E0C7FFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

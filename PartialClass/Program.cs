@@ -3,7 +3,6 @@
 var voteCounter = new VoteCounter();
 
 voteCounter.Votes = 10;
-
 Console.WriteLine(voteCounter.Votes);
 
 public partial class VoteCounter

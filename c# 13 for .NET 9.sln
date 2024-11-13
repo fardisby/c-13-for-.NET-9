@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pramas", "c# 13 for .NET 9\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClass\PartialClass.csproj", "{E60F1B10-0606-4668-BDE5-A59A6E0C7FFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{01102EA4-7825-42C2-9995-F11515671943}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E60F1B10-0606-4668-BDE5-A59A6E0C7FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E60F1B10-0606-4668-BDE5-A59A6E0C7FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E60F1B10-0606-4668-BDE5-A59A6E0C7FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01102EA4-7825-42C2-9995-F11515671943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01102EA4-7825-42C2-9995-F11515671943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01102EA4-7825-42C2-9995-F11515671943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01102EA4-7825-42C2-9995-F11515671943}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

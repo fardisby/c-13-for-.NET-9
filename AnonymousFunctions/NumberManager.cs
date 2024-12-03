@@ -8,6 +8,6 @@ namespace AnonymousFunctions
 {
     public class NumberManager
     {
-        delegate void NumberChanger(int n);
+      
     }
 }
